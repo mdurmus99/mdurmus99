@@ -1,6 +1,6 @@
 # Hi there, I'm Mustafa Durmuş 👋
 
-**AWS DevOps Engineer | Cyber Security Specialist | Copywriter**
+**AWS DevOps Engineer | Cyber Security Specialist**
 
 - 🔭 I’m currently working on AWS DevOps projects
 - 🌱 I’m currently learning advanced Kubernetes and AWS services
